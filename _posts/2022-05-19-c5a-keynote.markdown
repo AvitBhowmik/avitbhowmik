@@ -1,0 +1,17 @@
+---
+layout: post
+title: "How to act rapidly, deliberately and optimally"
+date: 2022-05-19
+description: 
+image: /assets/images/c5a.png
+author: Avit K. Bhowmik
+tags: 
+  - Climate Change
+  - Climate Adaptation
+  - Exponential Climate Action
+  - Transformation
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/719600019?h=679f8e4368" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+Why aren't we acting fast enough in the face of climate crisis? What is preventing us from acting at all? Can we turn those hindrances into Climate Action? Find out and listen to my keynote at the final conference of the [Cluster for Cloud to Coast Climate Change Adaptation (C5a)](hhttps://northsearegion.eu/c5a/news/many-results-shared-during-the-c5a-final-conference/) project. More about the project is [here](https://www.c5acloud2coast.eu).

@@ -1,0 +1,86 @@
+# Site/SEO settings
+email: avit.bhowmik@kau.se
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+google_analytics: UA-70156509-1
+
+name: Avit Bhowmik
+title: Avit Bhowmik | Environmental Scientist and Climate Solutionist
+description: >
+  Avit Bhowmik is the Research Director of Centre for Research on Sustainable Societal Transformation in Karlstad University
+url: http://avitbhowmik.ml
+twitter_username: avitbhowmik
+default_img: /assets/images/placeholder-28.jpg
+social:
+  - name: twitter
+    url: https://twitter.com/avitbhowmik
+  - name: KarlstadUniversity
+    url: https://www.kau.se/en/researchers/avit-kumar-bhowmik
+  - name: linkedin
+    url: https://www.linkedin.com/in/avitbhowmik/
+  - name: github
+    url: https://github.com/AvitBhowmik
+  - name: facebook
+    url: https://www.facebook.com/akbhowmik
+
+# Contact settings
+contact_img: /assets/images/placeholder-28.jpg
+formcarry: https://formcarry.com/s/HkIo0nMb7
+
+# Disqus settings
+disqus: test-apkdzgmqhj
+
+# MailChimp settings
+mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+
+# Author settings
+author:
+  - name: Avit Bhowmik
+    bio: Avit Bhowmik is the Research Director of Centre for Research on Sustainable Societal Transformation in Karlstad University
+    url: http://avitbhowmik.ml
+
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts: 
+      - 'tag.html'
+    title: 'Avit K. Bhowmik'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - vendor

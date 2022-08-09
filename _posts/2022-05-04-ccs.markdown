@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Pushing our problems into the next generation’s path"
+date: 2022-05-04
+description: 
+image: /assets/images/CCS.png
+author: Avit K. Bhowmik
+tags: 
+  - Climate Action
+  - Carbon Capture and Storage
+  - Exponential Climate Action
+  - Natural Carbon Sinks
+---
+
+Are we pushing our problems into the next generation's path by relying on Carbon Capture and Storage (CCS) technologies to solve the Climate Crisis? James Dyke and colleagues covered [the problem side pretty extensively](https://theconversation.com/climate-scientists-concept-of-net-zero-is-a-dangerous-trap-157368) in The Conversation. [Here](https://theconversation.com/relying-on-carbon-capture-to-solve-the-climate-crisis-risks-pushing-our-problems-into-the-next-generations-path-175269) is Neil Grant and my take from the solutions side.
+
+First, solutions to escape Climate Crisis that DO NOT rely on CCS exist today. Key remains on energy demand reduction, renewable energy deployment and digitalization. See colleagues and my work at the [Exponential Roadmap Initiative](https://exponentialroadmap.org).
+
+The cost of renewable energy has plummeted more sharply than ever before. Neil Grant's research shows that if we count the correct costs of renewables in the models, the value of CCS reduces drastically in all sectors, apart from a few hard to decarbonize sectors, e.g. Cement.
+
+Same happens when we adjust Discount Rates. Many models still use relatively high discount rates of 4-5%. But if discount rates are lowered to 1% to reflect the importance of future generation's well being – the value of CCS plummets across sectors.
+
+So, the bottom line is stop relying on CCS to achieve Net Zero and focus on actual solutions, mitigation and natural carbon sinks. Leave CCS for essential sectors like cement manufacturing.
+

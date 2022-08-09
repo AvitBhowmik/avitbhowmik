@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Building back better from the coronavirus pandemic"
+date: 2022-06-20
+description: 
+image: /assets/images/HLPF2022.png
+author: Avit K. Bhowmik
+tags:
+  - Climate change
+  - COVID19
+  - Sustainability
+  - Biodiversity
+  - Transformation
+---
+The COVID-19 pandemic has brought unprecedented disruption to lives and businesses around the world with massive adverse health and socioeconomic impacts for societies worldwide. Although the pandemic is a global and systemic crisis, governments’ responses have focused predominantly on national solutions and on health measures, which are insufficient to remedy its broader societal impacts. A longer-term perspective at national, regional and global levels that is aligned with the global framework for achieving sustainable development provided by the 2030 Agenda is needed in order to shorten the course of the pandemic and mitigate its negative impacts. I have contributed to [a position paper](https://council.science/publications/position-paper-2022-hlpf/) that was released during the [2022 United Nations High-Level Political Forum (HLPF)](https://hlpf.un.org/), and prepared by the Scientific and Technological Community Major Group, jointly facilitated by the International Science Council and the World Federation of Engineering Organizations (WFEO).

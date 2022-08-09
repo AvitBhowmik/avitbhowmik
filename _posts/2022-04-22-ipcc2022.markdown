@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Exponential Climate Action by Diverse Actors is key"
+date: 2022-04-22
+description: 
+image: /assets/images/ipcc2022.jpeg
+author: Avit K. Bhowmik
+tags: 
+  - Climate Action
+  - Exponential Climate Action
+  - Transformation
+---
+
+What's new in the recent IPCC Report of working group III about climate mitigation? I would say, in a word, "everything"! Read Sol Agin and my comments on the report at [Karlstad University website](https://www.kau.se/en/news/exponential-climate-action-by-diverse-actors-key).
+
+A few brief points to cover below:
+
+- For the very first time, IPCC has extensively and explicitly highlighted the role of distributed Climate Action by diverse subnational actors. "Common but differentiated responsibilities" were the foundation of United Nations Framework Convention on Climate Change (UNFCCC) but the responsibility was effectively left on the hand of the nation states, as Nationally Determined Contribution (NDC) is the only metric we have for tracking the progress. This time, starting at the very first page, IPCC urges to go subnational, although indeed, nation states remain as an important actor.
+
+- In 2020, colleagues and I have shown #communities comprising 10,000 people as the [Climate Action Sweet Spot](https://doi.org/10.1088/1748-9326/ab9ed0). We see evidences of this now in the success of many community and city led projects such Fridays for Future and C40 Cities.
+
+- We need exponential climate action and social tipping points, time for incremental action is over! See [here](https://exponentialroadmap.org) to find out more.
+
