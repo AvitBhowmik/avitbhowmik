@@ -258,6 +258,8 @@
   \newblock%
   {%
     \footnotesize\addfontfeature{Color=lightgray}%
+    \printfield{eventtitle}%
+    \setunit{\addcomma\space}%
     \printfield{booktitle}%
     \setunit{\addcomma\space}%
     \printnames{editor}%
@@ -295,24 +297,26 @@
   %\par\vspace{0.3\baselineskip}
 %}
 
-%\DeclareBibliographyDriver{misc}{%
-  %\printfield{title}%
-  %\par%
-  %\newblock%
-  %\printnames{author}%
-  %\par%
-  %\newblock%
-  %{%
-    %\footnotesize\addfontfeature{Color=lightgray}%
-    %\printfield{note}%
-    %\setunit{\addcomma\space}%
-    %\printfield{year}%
-    %\setunit{\addcomma\space}%
-    %\printlist{location}%
-    %\newunit%
-  %}
-  %\par\vspace{0.3\baselineskip}
-%}
+\DeclareBibliographyDriver{misc}{%
+  \printfield{title}%
+  \par%
+  \newblock%
+  \printnames{author}%
+  \par%
+  \newblock%
+  {%
+    \footnotesize\addfontfeature{Color=lightgray}%
+    \printfield{number}%
+    \setunit{\addcomma\space}%
+    \printfield{year}%
+    \setunit{\addcomma\space}%
+    \printlist{titleaddon}%
+    \setunit{\addcomma\space}%
+    \printlist{publisher}%
+    \newunit%
+  }
+  \par\vspace{0.3\baselineskip}
+}
 
 \DeclareBibliographyDriver{report}{%
   \printfield{title}%
@@ -390,6 +394,11 @@
             match=Work,
             final]
       \step[fieldset=keywords, fieldvalue=workpaper]
+    }
+    \map{\step[fieldsource=rights,
+            match=Comm,
+            final]
+      \step[fieldset=keywords, fieldvalue=communication]
     }
   }
 }

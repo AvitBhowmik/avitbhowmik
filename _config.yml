@@ -5,10 +5,10 @@ permalink: /:year/:month/:day/:title/
 google_analytics: UA-70156509-1
 
 name: Dr. Avit Bhowmik
-title: Dr. Avit Bhowmik | Environmental Scientist · Climate Solutionist
+title: Dr. Avit Bhowmik | Climate Scientist
 description: >
-  Avit Bhowmik is the Research Director of Centre for Research on Sustainable Societal Transformation in Karlstad University
-url: http://avitbhowmik.com
+  Avit Bhowmik is an Assistant Professor of Risk and Environmental Studies at Karlstad University
+url: https://www.avitbhowmik.com
 twitter_username: avitbhowmik
 default_img: /assets/images/placeholder-28.jpg
 social:
@@ -38,7 +38,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 author:
   - name: Avit Bhowmik
     bio: Avit Bhowmik is the Research Director of Centre for Research on Sustainable Societal Transformation in Karlstad University
-    url: http://avitbhowmik.com
+    url: https://www.avitbhowmik.com
 
 # Pagination settings
 pagination:
@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'Avit K. Bhowmik'
+    title: 'Dr. Avit Bhowmik'
     permalink: '/tag/:tag'
     slugify:
       mode: raw

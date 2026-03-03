@@ -1,0 +1,5 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is '/Users/avitkbhowmik/Work/Career/Professorship/Augsburg/CV_Bhowmik/bibliography.blg'
+[39] biber-darwin:313> INFO - === Fri Nov 13, 2020, 17:10:59
+[184] Utils.pm:209> ERROR - Cannot find control file '/Users/avitkbhowmik/Work/Career/Professorship/Augsburg/CV_Bhowmik/bibliography.bcf'! - Did latex run successfully on your .tex file before you ran biber?
+[184] Biber.pm:114> INFO - ERRORS: 1
