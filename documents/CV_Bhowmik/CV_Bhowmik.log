@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.14)  28 JAN 2026 14:18
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.14)  19 MAY 2026 09:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1164,124 +1164,131 @@ Underfull \hbox (badness 10000) in paragraph at lines 309--319
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 326--403
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
 
  []
 
-./CV_Bhowmik.tex:403: Argument of \@sectioncolor has an extra }.
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--408
+
+ []
+
+./CV_Bhowmik.tex:408: Argument of \@sectioncolor has an extra }.
 <inserted text> 
                 \par 
-l.403 \section{}
+l.408 \section{}
                 
 ? 
 Runaway argument?
-./CV_Bhowmik.tex:403: Paragraph ended before \@sectioncolor was complete.
+./CV_Bhowmik.tex:408: Paragraph ended before \@sectioncolor was complete.
 <to be read again> 
                    \par 
-l.403 \section{}
+l.408 \section{}
                 
 ? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 404--422
-
- []
-
 
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 428--447
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 453--503
-
- []
-
-./CV_Bhowmik.tex:503: Argument of \@sectioncolor has an extra }.
-<inserted text> 
-                \par 
-l.503 \section{}
-                
-? 
-Runaway argument?
-./CV_Bhowmik.tex:503: Paragraph ended before \@sectioncolor was complete.
-<to be read again> 
-                   \par 
-l.503 \section{}
-                
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 504--559
+Underfull \hbox (badness 10000) in paragraph at lines 409--435
 
  []
 
 
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 566--598
+Underfull \hbox (badness 10000) in paragraph at lines 442--461
 
  []
 
-./CV_Bhowmik.tex:598: Argument of \@sectioncolor has an extra }.
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--517
+
+ []
+
+./CV_Bhowmik.tex:517: Argument of \@sectioncolor has an extra }.
 <inserted text> 
                 \par 
-l.598 \section{}
+l.517 \section{}
                 
 ? 
 Runaway argument?
-./CV_Bhowmik.tex:598: Paragraph ended before \@sectioncolor was complete.
+./CV_Bhowmik.tex:517: Paragraph ended before \@sectioncolor was complete.
 <to be read again> 
                    \par 
-l.598 \section{}
+l.517 \section{}
                 
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 599--619
+Underfull \hbox (badness 10000) in paragraph at lines 518--573
 
  []
 
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 627--672
+Underfull \hbox (badness 10000) in paragraph at lines 580--612
 
  []
 
+./CV_Bhowmik.tex:612: Argument of \@sectioncolor has an extra }.
+<inserted text> 
+                \par 
+l.612 \section{}
+                
+? 
+Runaway argument?
+./CV_Bhowmik.tex:612: Paragraph ended before \@sectioncolor was complete.
+<to be read again> 
+                   \par 
+l.612 \section{}
+                
+? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 679--699
+Underfull \hbox (badness 10000) in paragraph at lines 613--633
 
  []
 
 
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 713--713
+Underfull \hbox (badness 10000) in paragraph at lines 641--686
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 707--715
+Underfull \hbox (badness 10000) in paragraph at lines 693--713
+
+ []
+
+
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 727--727
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--729
 
  []
 
 \blx@maxsegment@1=\count463
 \blx@sectionciteorder@1=\count464
-Package biblatex Info: Reference section=1 on input line 716.
-Package biblatex Info: Setting label 'refsection:1' on input line 716.
-Package biblatex Info: Reference section=0 on input line 719.
+Package biblatex Info: Reference section=1 on input line 730.
+Package biblatex Info: Setting label 'refsection:1' on input line 730.
+Package biblatex Info: Reference section=0 on input line 733.
 \blx@maxsegment@2=\count465
 \blx@sectionciteorder@2=\count466
-Package biblatex Info: Reference section=2 on input line 721.
-Package biblatex Info: Setting label 'refsection:2' on input line 721.
+Package biblatex Info: Reference section=2 on input line 735.
+Package biblatex Info: Setting label 'refsection:2' on input line 735.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 723.
+(Font)              scaled to size 8.00085pt on input line 737.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 723.
+(Font)              scaled to size 7.99915pt on input line 737.
 
 
-[8]
-Overfull \hbox (0.19981pt too wide) in paragraph at lines 723--723
+[9]
+Overfull \hbox (0.19981pt too wide) in paragraph at lines 737--737
 []\TU/HelveticaNeueLight(2)/m/n/8 Proceedings of the National Academy of Scienc
 es \TU/HelveticaNeueLight(2)/m/it/8 (Jan. 15, 2020) p. 201900577. 2020. DOI: []
 $[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[] 
@@ -1289,126 +1296,126 @@ $[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]
 
 
 
-[9]
-Overfull \hbox (6.63258pt too wide) in paragraph at lines 723--723
+[10]
+Overfull \hbox (6.63258pt too wide) in paragraph at lines 737--737
 [][]\TU/HelveticaNeueLight(0)/m/n/10 A Geostatistical Approach to the Seasonal 
 Precipitation Effect on Boro Rice Production in Bangladesh 
  []
 
-Package biblatex Info: Reference section=0 on input line 724.
+Package biblatex Info: Reference section=0 on input line 738.
 \blx@maxsegment@3=\count467
 \blx@sectionciteorder@3=\count468
-Package biblatex Info: Reference section=3 on input line 726.
-Package biblatex Info: Setting label 'refsection:3' on input line 726.
-./CV_Bhowmik.tex:728: Undefined control sequence.
+Package biblatex Info: Reference section=3 on input line 740.
+Package biblatex Info: Setting label 'refsection:3' on input line 740.
+./CV_Bhowmik.tex:742: Undefined control sequence.
 \blx@bbx@incollection ...\addspace \space }\print 
                                                   {(Eds)}\setunit *{\addcomm...
-l.728 ... book chapters}, heading=subbibliography]
+l.742 ... book chapters}, heading=subbibliography]
                                                   
 ? 
-./CV_Bhowmik.tex:728: Undefined control sequence.
+./CV_Bhowmik.tex:742: Undefined control sequence.
 \blx@bbx@incollection ...\addspace \space }\print 
                                                   {(Eds)}\setunit *{\addcomm...
-l.728 ... book chapters}, heading=subbibliography]
+l.742 ... book chapters}, heading=subbibliography]
                                                   
 ? 
-./CV_Bhowmik.tex:728: Undefined control sequence.
+./CV_Bhowmik.tex:742: Undefined control sequence.
 \blx@bbx@incollection ...\addspace \space }\print 
                                                   {(Eds)}\setunit *{\addcomm...
-l.728 ... book chapters}, heading=subbibliography]
+l.742 ... book chapters}, heading=subbibliography]
                                                   
 ? 
 
 
-[10]
-./CV_Bhowmik.tex:728: Undefined control sequence.
+[11]
+./CV_Bhowmik.tex:742: Undefined control sequence.
 \blx@bbx@incollection ...\addspace \space }\print 
                                                   {(Eds)}\setunit *{\addcomm...
-l.728 ... book chapters}, heading=subbibliography]
+l.742 ... book chapters}, heading=subbibliography]
                                                   
 ? 
-./CV_Bhowmik.tex:728: Undefined control sequence.
+./CV_Bhowmik.tex:742: Undefined control sequence.
 \blx@bbx@incollection ...\addspace \space }\print 
                                                   {(Eds)}\setunit *{\addcomm...
-l.728 ... book chapters}, heading=subbibliography]
+l.742 ... book chapters}, heading=subbibliography]
                                                   
 ? 
-Package biblatex Info: Reference section=0 on input line 729.
+Package biblatex Info: Reference section=0 on input line 743.
 \blx@maxsegment@4=\count469
 \blx@sectionciteorder@4=\count470
-Package biblatex Info: Reference section=4 on input line 732.
-Package biblatex Info: Setting label 'refsection:4' on input line 732.
+Package biblatex Info: Reference section=4 on input line 746.
+Package biblatex Info: Setting label 'refsection:4' on input line 746.
 
 Package biblatex Warning: 'sorting' option to '\printbibliography' is no longer
  supported.
 (biblatex)                Please use 'sorting' option to '\newrefcontext'.
 
 
-Overfull \hbox (5.01279pt too wide) in paragraph at lines 732--732
+Overfull \hbox (5.01279pt too wide) in paragraph at lines 746--746
 []\TU/HelveticaNeueLight(2)/m/n/9 Sinjae Yoo, Marie-Alexandrine Sicre, Paul Mye
 rs, Charlotte Laufkoetter, Patricia Miloslavich, Clement Brousse,
  []
 
 
 
-[11]
-Package biblatex Info: Reference section=0 on input line 732.
+[12]
+Package biblatex Info: Reference section=0 on input line 746.
 \blx@maxsegment@5=\count471
 \blx@sectionciteorder@5=\count472
-Package biblatex Info: Reference section=5 on input line 733.
-Package biblatex Info: Setting label 'refsection:5' on input line 733.
+Package biblatex Info: Reference section=5 on input line 747.
+Package biblatex Info: Setting label 'refsection:5' on input line 747.
 
 
-[12]
-Overfull \hbox (6.38258pt too wide) in paragraph at lines 735--735
+[13]
+Overfull \hbox (6.38258pt too wide) in paragraph at lines 749--749
 [][]\TU/HelveticaNeueLight(0)/m/n/10 Damage and Post-cyclone Regeneration Asses
 sment of the Sundarbans Botanic Biodiversity caused
  []
 
-Package biblatex Info: Reference section=0 on input line 736.
+Package biblatex Info: Reference section=0 on input line 750.
 \blx@maxsegment@6=\count473
 \blx@sectionciteorder@6=\count474
-Package biblatex Info: Reference section=6 on input line 743.
-Package biblatex Info: Setting label 'refsection:6' on input line 743.
-Package biblatex Info: Reference section=0 on input line 746.
+Package biblatex Info: Reference section=6 on input line 757.
+Package biblatex Info: Setting label 'refsection:6' on input line 757.
+Package biblatex Info: Reference section=0 on input line 760.
 \blx@maxsegment@7=\count475
 \blx@sectionciteorder@7=\count476
-Package biblatex Info: Reference section=7 on input line 748.
-Package biblatex Info: Setting label 'refsection:7' on input line 748.
+Package biblatex Info: Reference section=7 on input line 762.
+Package biblatex Info: Setting label 'refsection:7' on input line 762.
 
-
-[13]
 
 [14]
-Package biblatex Info: Reference section=0 on input line 751.
-\blx@maxsegment@8=\count477
-\blx@sectionciteorder@8=\count478
-Package biblatex Info: Reference section=8 on input line 761.
-Package biblatex Info: Setting label 'refsection:8' on input line 761.
-
 
 [15]
-Package biblatex Info: Reference section=0 on input line 764.
+Package biblatex Info: Reference section=0 on input line 765.
+\blx@maxsegment@8=\count477
+\blx@sectionciteorder@8=\count478
+Package biblatex Info: Reference section=8 on input line 775.
+Package biblatex Info: Setting label 'refsection:8' on input line 775.
 
 
-./CV_Bhowmik.tex:768: LaTeX Error: There's no line here to end.
+[16]
+Package biblatex Info: Reference section=0 on input line 778.
+
+
+./CV_Bhowmik.tex:782: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.768 \newline
+l.782 \newline
               
 ? 
-./CV_Bhowmik.tex:770: Too many }'s.
-l.770 \normalfont{Karlstad, \today}}
+./CV_Bhowmik.tex:784: Too many }'s.
+l.784 \normalfont{Karlstad, \today}}
                                     
 ? 
 File: signature.png Graphic file (type bmp)
 <signature.png>
 
 
-[16] (./CV_Bhowmik.aux)
+[17] (./CV_Bhowmik.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1422,10 +1429,10 @@ Package logreq Info: Writing requests to 'CV_Bhowmik.run.xml'.
 Here is how much of TeX's memory you used:
  35474 strings out of 473832
  752207 string characters out of 5729480
- 2854066 words of memory out of 5000000
+ 2854060 words of memory out of 5000000
  58040 multiletter control sequences out of 15000+600000
  562096 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,9n,121p,2868b,5227s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,9n,121p,2868b,5228s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on CV_Bhowmik.pdf (16 pages).
+Output written on CV_Bhowmik.pdf (17 pages).
